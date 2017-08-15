@@ -1,1 +1,1 @@
-console.log('index.js');
+import app from './app'
